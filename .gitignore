@@ -1,0 +1,8 @@
+node_modules
+.npm-cache
+.data
+.data-test
+.next
+out
+*.tsbuildinfo
+.env*.local
